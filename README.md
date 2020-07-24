@@ -13,5 +13,3 @@
 [![](https://img.shields.io/badge/HackerRank-Who_Codes-brightgreen)](https://www.hackerrank.com/Who_Codes)
 [![](https://img.shields.io/badge/github-prasanna3000-black)](https://github.com/prasanna3000)
 [![](https://img.shields.io/badge/HackerEarth-prasanna3000-darkblue)](https://www.hackerearth.com/@prasanna210)
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=prasanna3000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
