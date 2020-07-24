@@ -3,6 +3,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p><img src="https://github.com/prasanna3000/prasanna3000/blob/master/carbon.png" width="100%"></p>
 
+<img align='left' src="https://github.com/prasanna3000/prasanna3000/blob/master/undraw_freelancer_b0my.svg" width="330">
+
 <p><em>Computer Science graduate at <a href="https://vignan.ac.in/">Vignans University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack developer Intern <a href="https://myanatomy.in/#/home">MyAnatomy Integration Pvt Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -13,3 +15,4 @@
 [![](https://img.shields.io/badge/HackerRank-Who_Codes-brightgreen)](https://www.hackerrank.com/Who_Codes)
 [![](https://img.shields.io/badge/github-prasanna3000-black)](https://github.com/prasanna3000)
 [![](https://img.shields.io/badge/HackerEarth-prasanna3000-darkblue)](https://www.hackerearth.com/@prasanna210)
+
