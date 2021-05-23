@@ -5,14 +5,19 @@
 
 <img align='left' src="https://github.com/prasanna3000/prasanna3000/blob/master/undraw_freelancer_b0my.svg" width="330">
 
-<p><em>Computer Science graduate at <a href="https://vignan.ac.in/">Vignans University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack developer Intern <a href="https://myanatomy.in/#/home">MyAnatomy Integration Pvt Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full Stack developer <a href="https://myanatomy.in/#/home">MyAnatomy Integration Pvt Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+  
+   ![Visitor Count](https://profile-counter.glitch.me/{prasanna3000}/count.svg)
+
 
 [![](https://img.shields.io/badge/LinkedIn-prasannareddyisireddy-blue)](https://www.linkedin.com/in/prasannareddyisireddy/)
 [![](https://img.shields.io/badge/Gmail-iprasannareddy20%40gmail.com-red)](mailto:iprasannareddy20@gmail.com)
 [![](https://img.shields.io/badge/HackerRank-Who_Codes-brightgreen)](https://www.hackerrank.com/Who_Codes)
 [![](https://img.shields.io/badge/github-prasanna3000-black)](https://github.com/prasanna3000)
 [![](https://img.shields.io/badge/HackerEarth-prasanna3000-darkblue)](https://www.hackerearth.com/@prasanna210)
+
+
 
