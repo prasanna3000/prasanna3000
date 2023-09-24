@@ -1,5 +1,3 @@
-
-
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h2>
 <p><img src="https://github.com/prasanna3000/prasanna3000/blob/master/carbon.png" width="100%"></p>
 
@@ -33,17 +31,17 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=prasanna3000&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=prasanna3000&theme=nord&row=1&column=5&margin-h=15&margin-w=5&no-bg=true%22%20alt=%22TROPHY" alt="TROPHY />
     </a>
 </div>
-<!--- trophy (start) -->
 
-</p>        
-<!--- stats (end) -->
-<br>
+<!--- trophy (end) -->
+
 <!--- tech badges (start) -->
-
-<p align="center"> 
+<div align="center">
+<p></p>
+  <div align="center">
+<p align="center">
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -93,11 +91,12 @@
     &emsp;
     <a href="https://www.hackerearth.com/@prasanna210"><img alt = "Hacker Earth" src="https://img.shields.io/badge/hackereath-2C3454.svg?style=plastic&logo=hackerearth&logoColor=white" /></a>
 </p>
+</div>
 <!--- tech badges (end) -->
+</div>
 <br>
 <!--- random dev joke (start) -->
 <div align=center>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
   </div>
 <!--- random dev joke (end) -->
-
