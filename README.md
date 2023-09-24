@@ -38,18 +38,67 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-  
-   ![Visitor Count](https://profile-counter.glitch.me/{prasanna3000}/count.svg)
+<!--- random dev joke (start) -->
+<div align=center>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+  </div>
+<!--- random dev joke (end) -->
 
+<!--- tech badges (start) -->
 
-[![](https://img.shields.io/badge/LinkedIn-prasannareddyisireddy-blue)](https://www.linkedin.com/in/prasannareddyisireddy/)
-[![](https://img.shields.io/badge/Gmail-iprasannareddy20%40gmail.com-red)](mailto:iprasannareddy20@gmail.com)
-[![](https://img.shields.io/badge/HackerRank-Who_Codes-brightgreen)](https://www.hackerrank.com/Who_Codes)
-[![](https://img.shields.io/badge/github-prasanna3000-black)](https://github.com/prasanna3000)
-[![](https://img.shields.io/badge/HackerEarth-prasanna3000-darkblue)](https://www.hackerearth.com/@prasanna210)
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+  </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+     &emsp;
+  <a href="https://mui.com/material-ui/" target="_blank"> 
+     <img alt="Material-UI" src="https://img.shields.io/badge/materialui-%2361DAFB.svg?style=plastic&logo=mui&logoColor=white&color=blue">
+   </a>
+   &emsp;
+  <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> 
+     <img alt="Material-UI" src="https://img.shields.io/badge/java-red">
+   </a>
+     &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+   &emsp;
+    <a href="https://leetcode.com/iprasanna/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="https://www.hackerrank.com/Who_Codes"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+    &emsp;
+    <a href="https://www.hackerearth.com/@prasanna210"><img alt = "Hacker Earth" src="https://img.shields.io/badge/hackereath-2C3454.svg?style=plastic&logo=hackerearth&logoColor=white" /></a>
+</p>
+<!--- tech badges (end) -->
 
 
 
