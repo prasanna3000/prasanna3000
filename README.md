@@ -38,56 +38,43 @@ _2016 - 2020_
 
 ---
 
-### **Work Experience**
+
+### Work Experience:
 
 #### **Senior Software Developer**  
-**Xoriant Solutions Private Limited**  
-_April 2024 - Present_  
-- Designed and maintained resilient backend systems using TypeScript and AWS (Lambda, SQS, DynamoDB, GraphQL, SNS, ELK, Auto scaling).  
-- Developed serverless applications and message queue management.  
-- Constructed secure APIs, integrated databases, and automated CI/CD pipelines for scalable banking systems.  
-- Ensured compliance with banking regulations.
+*Xoriant Solutions Private Limited*  
+*April 2024 - Present*
+
+**Key Projects**:
+- **Instant Savings Account**: A flexible savings account solution allowing fixed-rate earnings on GBP, EUR, and USD balances, with support for recurring transfers.  
+  *Technologies*: AWS Lambda, DynamoDB, AWS CloudWatch, GraphQL, Mambu.
+
+- **NpmDocs** - a powerful web app for finding NPM package documentation.
+  *Technologies*: Node.js, ReactJs, Redux, TypeScript, RabbitMQ.
 
 #### **Software Developer**  
-**M2P Solutions Private Limited**  
-_January 2023 - April 2024_
-- Designed scalable backend systems using Spring Boot, PostgreSQL, and MySQL.  
-- Managed real-time data streaming using Apache Kafka.  
-- Implemented unit, integration, and performance testing with CI/CD pipelines.  
-- Enhanced cloud infrastructure performance, reducing costs by 54%.  
+*M2P Solutions Private Limited*  
+*January 2023 - April 2024*
+
+**Key Projects**:
+- **Switch As a Service**: A comprehensive transaction processing platform handling transaction authorization, rules validation, and more.  
+  *Technologies*: Spring Boot, PostgreSQL, MySQL, MongoDB, Kafka.
+
+- **CKYC**: A platform for managing CKYC operations such as fetching, updating, and saving customer data.  
+  *Technologies*: Node.js, BullMQ, Cluster, ReactJS, Express, Schedule, MySQL.
+
 
 #### **Software Developer**  
-**MyAnatomy Integration Private Limited**  
-_January 2020 - January 2023_
-- Developed REST APIs using Express, NodeJs, and TypeScript.  
-- Facilitated sprint discussions and delivered training to new joiners.  
-- Designed database schemas with MongoDB and optimized queries.  
-- Enhanced development using Redux, Material UI, and Jest.  
-- Worked with socketio, peerjs, AWS S3, EC2, RDS, Typescript, Mocha, Chai, Jest, ReactJs, Redux, MongoDB
+*MyAnatomy Integration Private Limited*  
+*January 2020 - Jan 2023*
 
----
+**Key Projects**:
+- **MyMeeting**: A secure video calling platform with one-on-one video calls and moderator control.  
+  *Technologies*: NodeJs, Express, TypeScript, Socket.io, Simple Peer, ReactJs, Redux, MongoDB, Mocha, Jest.
 
-### **Projects**
+- **Storage Microservice (SMS)**: A dedicated microservice to handle file uploads and deletion history with support for large file sizes.  
+  *Technologies*: AWS S3, NodeJs, Express, MongoDB, BullMQ, Redis.
 
-#### **npmdocs**  
-_Sep’24 - Present_  
-- **Technologies:** Typescript, Nodejs, Express, MongoDB  
-- Developed a web app for where developers can find the documentation for almost all the npm docs for free
-
-#### **Storage Micro Service (SMS)**  
-_Mar’21 - Jun’21_  
-- **Technologies:** AWS S3, NodeJs, Express Js, MongoDB, BullMQ, Redis  
-- Developed a web app for handling file uploads, storage, and deletion history with granular access control.
-
-#### **MyMeeting - Video Calling Platform**  
-_Nov’21 - May’22_  
-- **Technologies:** NodeJs, Express, Typescript, Socket.io, Simple Peer, ReactJs, Redux, MongoDB  
-- Developed a secure video calling platform for one-on-one communication with token-based verification.
-
-#### **Switch As a Service**  
-_June’23 - April’24_  
-- **Technologies:** Spring Boot, PostgreSQL, MySQL, MongoDB, Kafka  
-- Implemented a solution for transaction authorization, rule checking, and bank authentication with Kafka-based messaging.
 
 ---
 
@@ -97,7 +84,7 @@ _June’23 - April’24_
 - **Back-end Development:** Spring Boot, Java, JSP, Servlets, NodeJs, Express, Socket.io, Simple Peer, GraphQL  
 - **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB  
 - **Cloud Providers:** AWS, GCP  
-- **Tools:** GitHub, Git, Postman, Jest, Mocha, Chai , GitLab 
+- **Tools:** GitHub, Git, Postman, Jest, Mocha, Chai, GitLab 
 
 ---
 
