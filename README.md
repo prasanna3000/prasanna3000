@@ -8,7 +8,6 @@
 
 **Email:** iprasannareddy20@gmail.com  
 **LinkedIn:** [linkedin.com/in/prasannareddy](https://www.linkedin.com/in/prasanna3000/)  
-**Date of Birth:** 12th June 1998  
 **Languages:** Telugu, Hindi, English, Tamil  
 **Location:** Chennai  
 
