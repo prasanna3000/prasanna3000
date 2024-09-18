@@ -8,18 +8,12 @@
 
 **Email:** iprasannareddy20@gmail.com  
 **LinkedIn:** [linkedin.com/in/prasannareddy](https://www.linkedin.com/in/prasanna3000/)  
-**Languages:** Telugu, Hindi, English, Tamil  
-**Location:** Chennai  
-
----
-
-### **Education**
-
 **Bachelor of Computer Science**  
 Vignans Deemed To Be University  
 _2016 - 2020_  
 **CGPA:** 9.5/10 
 
+<br><br>
 ---
 
 ### **Highlights**
