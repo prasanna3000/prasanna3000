@@ -11,10 +11,6 @@
 **Languages:** Telugu, Hindi, English, Tamil  
 **Location:** Chennai  
 
-
-### **About Me**  
-A performance-oriented and driven full-stack web developer who utilizes skills and expertise to craft innovative and effective web applications. With 5 years of background in web development technologies and a keen interest in keeping abreast of industry trends, I am dedicated to enhancing dynamic and collaborative development teams. Seeking roles in Full-stack Development within the IT sector.
-
 ---
 
 ### **Education**
