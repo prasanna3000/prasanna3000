@@ -29,13 +29,13 @@
 
   <g font-size="18">
     <text x="40" y="84" clip-path="url(#c1)"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
-    <text x="40" y="114" clip-path="url(#c2)" fill="#ffffff" font-size="22" font-weight="700">Prasanna Reddy <tspan fill="url(#glow)">// Senior Software Developer</tspan></text>
+    <text x="40" y="114" clip-path="url(#c2)" fill="#ffffff" font-size="22" font-weight="700">Prasanna Reddy <tspan fill="url(#glow)">// DevSecOps Full-Stack Engineer</tspan></text>
 
     <text x="40" y="154" clip-path="url(#c3)"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e6edf3"> cat focus.txt</tspan></text>
-    <text x="40" y="184" clip-path="url(#c4)" fill="#a5b4fc">backend · distributed systems · cloud · fintech · real-time video</text>
+    <text x="40" y="184" clip-path="url(#c4)" fill="#a5b4fc">appsec · supply-chain security · backend · cloud · fintech</text>
 
     <text x="40" y="224" clip-path="url(#c5)"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e6edf3"> uptime</tspan></text>
-    <text x="40" y="254" clip-path="url(#c6)" fill="#86efac">up since 2020 · 3 companies · 6 systems shipped · load avg: high</text>
+    <text x="40" y="254" clip-path="url(#c6)" fill="#86efac">up since 2020 · 4 companies · 8 systems shipped · load avg: high</text>
 
     <text x="40" y="294" clip-path="url(#c7)"><tspan fill="#22d3ee">❯</tspan><tspan fill="#e6edf3"> ./explore --next </tspan><tspan fill="#f9a8d4">LLMs · RAG · vector search · agents</tspan></text>
   </g>
